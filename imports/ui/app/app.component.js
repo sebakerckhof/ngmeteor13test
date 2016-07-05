@@ -1,7 +1,7 @@
 import { Meteor } from 'meteor/meteor';
 import angular from 'angular';
 import angularMeteor from 'angular-meteor';
-import meteorAuth from 'angular-meteor-auth';
+import meteorAuth from 'meteor/angular-meteor-auth';
 import uiRouter from 'angular-ui-router';
 
 import { name as Foo } from 'meteor/foo/client/ui/foo/foo.component';
